@@ -1,10 +1,9 @@
-package com.udison.foodnstuff.Items;
+package com.udison.foodnstuff.items;
 
 import com.udison.foodnstuff.util.Marbling;
 import net.minecraft.client.util.ITooltipFlag;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.Rarity;
 import net.minecraft.nbt.CompoundNBT;
 import net.minecraft.util.ActionResult;
 import net.minecraft.util.Hand;

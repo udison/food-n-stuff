@@ -1,4 +1,4 @@
-package com.udison.foodnstuff.Items;
+package com.udison.foodnstuff.items;
 
 import com.udison.foodnstuff.FoodNStuff;
 import net.minecraft.item.Food;

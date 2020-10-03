@@ -1,10 +1,10 @@
 package com.udison.foodnstuff.util;
 
-import com.udison.foodnstuff.Items.BlockItemBase;
-import com.udison.foodnstuff.Items.ItemBase;
-import com.udison.foodnstuff.Items.ItemFoodBase;
+import com.udison.foodnstuff.items.BlockItemBase;
+import com.udison.foodnstuff.items.ItemBase;
+import com.udison.foodnstuff.items.ItemFoodBase;
 import com.udison.foodnstuff.FoodNStuff;
-import com.udison.foodnstuff.Items.MeatBase;
+import com.udison.foodnstuff.items.MeatBase;
 import com.udison.foodnstuff.blocks.CuttingBoardBlock;
 import com.udison.foodnstuff.blocks.KitchenCabGroundBlock;
 import com.udison.foodnstuff.blocks.StandMixerBlock;

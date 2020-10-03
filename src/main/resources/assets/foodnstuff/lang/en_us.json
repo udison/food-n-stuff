@@ -1,0 +1,16 @@
+{
+  "item.foodnstuff.kitchen_knife": "Chef's Knife",
+
+  "item.foodnstuff.steak_raw_primerib": "Raw Prime Rib",
+  "item.foodnstuff.steak_primerib": "Prime Rib",
+  "item.foodnstuff.yellow_onion": "Yellow Onion",
+  "item.foodnstuff.red_onion": "Red Onion",
+  "item.foodnstuff.butter_bar": "Butter Bar",
+
+  "block.foodnstuff.stove": "Stove",
+  "block.foodnstuff.stand_mixer": "Stand Mixer",
+  "block.foodnstuff.kitchen_cab_ground": "Kitchen Cabinet (Ground)",
+  "block.foodnstuff.cutting_board": "Cutting Board",
+
+  "itemGroup.foodnstuffTab": "Food n' Stuff"
+}

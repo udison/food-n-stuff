@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "foodnstuff:block/stand_mixer" },
+    "facing=south": { "model": "foodnstuff:block/stand_mixer", "y": 180 },
+    "facing=west":  { "model": "foodnstuff:block/stand_mixer", "y": 270 },
+    "facing=east":  { "model": "foodnstuff:block/stand_mixer", "y": 90 }
+  }
+}

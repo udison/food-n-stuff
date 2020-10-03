@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north" : { "model": "foodnstuff:block/kitchen_cab_ground", "y" : 180 },
+    "facing=east"  : { "model": "foodnstuff:block/kitchen_cab_ground" },
+    "facing=south" : { "model": "foodnstuff:block/kitchen_cab_ground" },
+    "facing=west"  : { "model": "foodnstuff:block/kitchen_cab_ground", "y" : 180 }
+  }
+}

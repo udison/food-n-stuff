@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "foodnstuff:steak_raw_primerib"
+  },
+  "result": "foodnstuff:steak_primerib",
+  "experience": 1.0,
+  "cookingtime": 200
+}

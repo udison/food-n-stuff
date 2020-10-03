@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "ddd",
+    "wiw",
+    "www"
+  ],
+  "key":
+  {
+    "w":
+    {
+      "item": "minecraft:planks"
+    },
+    "d":
+    {
+      "item": "minecraft:polished_andesite"
+    },
+    "i":
+    {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result":
+  {
+    "item": "foodnstuff:kitchen_knife",
+    "count": 1
+  }
+}
